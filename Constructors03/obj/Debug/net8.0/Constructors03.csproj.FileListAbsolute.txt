@@ -1,0 +1,5 @@
+C:\Users\walst\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Constructors03\obj\Debug\net8.0\Constructors03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walst\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Constructors03\obj\Debug\net8.0\Constructors03.AssemblyInfoInputs.cache
+C:\Users\walst\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Constructors03\obj\Debug\net8.0\Constructors03.AssemblyInfo.cs
+C:\Users\walst\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Constructors03\obj\Debug\net8.0\Constructors03.csproj.CoreCompileInputs.cache
+C:\Users\walst\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Constructors03\obj\Debug\net8.0\Constructors03.sourcelink.json
